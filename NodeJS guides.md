@@ -88,11 +88,20 @@ This file controls the bot’s behavior. Below is an example configuration:
 ### 2. `datas.txt` - 🗂️ User Data
 
 - Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
-
+- EVM address
 ```txt
 0x...
 0x...
 0x...
+```
+
+### 2.1 `ids.txt` - 🗂️ Get it from here > [Link]()
+
+- Node id from account
+```txt
+...
+...
+...
 ```
 
 _Note: Each row for each account_
